@@ -25,9 +25,14 @@ detail:create the MIO.h to manage the input/output and Graph.h to store the data
 message:rebuild project
 by:hopeful
 date:2015.03.05
-SHA:null
+SHA:61d40ea519ecd35bace4d4eff7108a572b691f9b
 detail:I have to rebuild this project because I just see the SDK which is given by CodeCraft.It means we must program based on the SDK files.We can hava a better test by it.
 ==============================================================================
+message:rebuild project again
+by:hopeful
+date:2015.03.05
+SHA:null
+detail:Because the SDK files is complex,I decide to clear them and to leave only source files and execute file.The way to use it will be shown in the wiki page later.Make a branch to commit the codes and merge them after discussing.
+==============================================================================
 # Reference
-http://blog.csdn.net/thq0201/article/details/7409204
 
