@@ -1,14 +1,14 @@
 # lzuhwcc
 null
-# program tools
+# Program Tools
 linux g++
-# author
+# Author
 hopeful zmy//change it by yourself
-# create date
+# Create Date
 2015.03.04
-# last change date
+# Last Change Date
 2015.03.04
-# commit detail
+# Commit Detail
 ==============================================================================
 message:Initial commit
 by:system
@@ -19,6 +19,15 @@ detail:commit by the system when create the repository in the web.
 message:create MIO and Graph
 by:hopeful
 date:2015.03.05
-SHA:null
+SHA:7117a2ce0685f1524022adb9d1a2415904988185
 detail:create the MIO.h to manage the input/output and Graph.h to store the data of Graph.But the .cpp file is not commited this time.And the .h file is not completed;
 ==============================================================================
+message:rebuild project
+by:hopeful
+date:2015.03.05
+SHA:null
+detail:I have to rebuild this project because I just see the SDK which is given by CodeCraft.It means we must program based on the SDK files.We can hava a better test by it.
+==============================================================================
+# Reference
+http://blog.csdn.net/thq0201/article/details/7409204
+
