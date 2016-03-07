@@ -45,8 +45,15 @@ message:add store module again
 by:hopeful
 branch:hopeful
 date:2015.03.06
-SHA:null
+SHA:0fddcf248fef7d68c4172e1ca7d9bfedff7774f0
 detail:rewrite the route.cpp and add some codes to store the data which read by lib_io.a.
+=============================================================================
+message:add lib_io.a
+by:hopeful
+branch:hopeful
+date:2015.03.06
+SHA:null
+detail:add lib_io.a to ./future_net/lib/.
 =============================================================================
 # Reference
 
