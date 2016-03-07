@@ -31,8 +31,15 @@ detail:I have to rebuild this project because I just see the SDK which is given 
 message:rebuild project again
 by:hopeful
 date:2015.03.05
-SHA:null
+SHA:ea4b9bfbe9f015e08cb215643900878c26f685d0
 detail:Because the SDK files is complex,I decide to clear them and to leave only source files and execute file.The way to use it will be shown in the wiki page later.Make a branch to commit the codes and merge them after discussing.
 ==============================================================================
+message:add store module
+by:hopeful
+branch:hopeful
+date:2015.03.0
+SHA:null
+detail:rewrite the route.cpp and add some codes to store the data which read by lib_io.a
+=============================================================================
 # Reference
 
