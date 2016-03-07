@@ -37,9 +37,16 @@ detail:Because the SDK files is complex,I decide to clear them and to leave only
 message:add store module
 by:hopeful
 branch:hopeful
-date:2015.03.0
+date:2015.03.06
+SHA:3830f1bcea7b4c158cbe95cc3a63ea1927902757
+detail:rewrite the route.cpp and add some codes to store the data which read by lib_io.a.It didn't work,so I commit again.
+=============================================================================
+message:add store module again
+by:hopeful
+branch:hopeful
+date:2015.03.06
 SHA:null
-detail:rewrite the route.cpp and add some codes to store the data which read by lib_io.a
+detail:rewrite the route.cpp and add some codes to store the data which read by lib_io.a.
 =============================================================================
 # Reference
 
